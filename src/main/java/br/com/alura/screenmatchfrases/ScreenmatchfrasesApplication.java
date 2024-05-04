@@ -9,5 +9,4 @@ public class ScreenmatchfrasesApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ScreenmatchfrasesApplication.class, args);
 	}
-
 }
